@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Super Surged Sudoku</string>
+    <string name="title_activity_score_view">ScoreView</string>
+</resources>
